@@ -3,7 +3,19 @@
 > **Agentic early-warning, physiological anomaly detection, and causal attribution for
 > consumer wearable data.**
 
-**▶ [Watch the demo film](docs/demo/wha-demo.mp4)** · **▶ [Watch the dashboard walkthrough](docs/demo/wha-dashboard-walkthrough.mp4)**
+**▶ [Watch the demo film](docs/demo/wha-demo.mp4)**
+
+
+https://github.com/user-attachments/assets/59b4d3be-a815-4b47-bce0-eb9ff30a69a4
+
+
+· **▶ [Watch the dashboard walkthrough](docs/demo/wha-dashboard-walkthrough.mp4)**
+
+
+
+https://github.com/user-attachments/assets/786af6a9-3786-4798-a6e3-413e69b7aa32
+
+
 
 [Presentation PDF](docs/presentations/Presentation.pdf) · [Presentation PPTX](docs/presentations/Presentation.pptx) · [Report PDF](docs/presentations/Report.pdf)
 
