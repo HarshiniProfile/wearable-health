@@ -6,7 +6,11 @@
 **▶ [Watch the demo film](docs/demo/wha-demo.mp4)**
 
 
-https://github.com/user-attachments/assets/59b4d3be-a815-4b47-bce0-eb9ff30a69a4
+
+
+https://github.com/user-attachments/assets/d6f1dbd1-a697-4dcc-a768-5803308b7d01
+
+
 
 
 · **▶ [Watch the dashboard walkthrough](docs/demo/wha-dashboard-walkthrough.mp4)**
